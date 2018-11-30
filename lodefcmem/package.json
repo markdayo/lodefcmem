@@ -1,0 +1,12 @@
+{
+  "name": "lodefcmem",
+  "version": "0.0.0",
+  "description": "lodefcmem",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.3"
+  }
+}
